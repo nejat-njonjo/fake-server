@@ -3,21 +3,21 @@
     {
       "district": "Karonga",
       "arrivals": 40,
-      "from_hotpots": 30,
+      "from_hotspots": 30,
       "test_kits": 30,
       "test_sites": 30
     },
     {
       "district": "Chitipa",
       "arrivals": 30,
-      "from_hotpots": 11,
+      "from_hotspots": 11,
       "test_kits": 34,
       "test_sites": 3
     },
     {
       "district": "Lilongwe",
       "arrivals": 350,
-      "from_hotpots": 131,
+      "from_hotspots": 131,
       "test_kits": 45,
       "test_sites": 23
     }
