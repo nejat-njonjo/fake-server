@@ -1,0 +1,28 @@
+[
+{
+  "district": "Karonga",
+  "arrivals": "40",
+  "from_hostpots": "30",
+  "test_kits": "30",
+  "test_sites: 30
+},{
+  "district": "Chitipa",
+  "arrivals": "10",
+  "from_hostpots": "3",
+  "test_kits": "12",
+  "test_sites: 2
+},
+{
+  "district": "Lilongwe",
+  "arrivals": "80",
+  "from_hostpots": "30",
+  "test_kits": "30",
+  "test_sites: 30
+},{
+  "district": "Mzimba",
+  "arrivals": "14",
+  "from_hostpots": "33",
+  "test_kits": "132",
+  "test_sites: 56
+},
+]
