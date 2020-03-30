@@ -1,28 +1,25 @@
-[
 {
-  "district": "Karonga",
-  "arrivals": "40",
-  "from_hostpots": "30",
-  "test_kits": "30",
-  "test_sites: 30
-},{
-  "district": "Chitipa",
-  "arrivals": "10",
-  "from_hostpots": "3",
-  "test_kits": "12",
-  "test_sites: 2
-},
-{
-  "district": "Lilongwe",
-  "arrivals": "80",
-  "from_hostpots": "30",
-  "test_kits": "30",
-  "test_sites: 30
-},{
-  "district": "Mzimba",
-  "arrivals": "14",
-  "from_hostpots": "33",
-  "test_kits": "132",
-  "test_sites: 56
-},
-]
+  "districts": [
+    {
+      "district": "Karonga",
+      "arrivals": 40,
+      "from_hotpots": 30,
+      "test_kits": 30,
+      "test_sites": 30
+    },
+    {
+      "district": "Chitipa",
+      "arrivals": 30,
+      "from_hotpots": 11,
+      "test_kits": 34,
+      "test_sites": 3
+    },
+    {
+      "district": "Lilongwe",
+      "arrivals": 350,
+      "from_hotpots": 131,
+      "test_kits": 45,
+      "test_sites": 23
+    }
+  ]
+}
